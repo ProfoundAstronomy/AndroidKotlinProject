@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidKotlinProject"
 include ':app'
+include ':lib-mvvm'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackMvvm</string>
+    <string name="request_net_tips">"Requesting network... "</string>
+    <string name="download_error_tips">"Download error "</string>
+</resources>
